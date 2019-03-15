@@ -1,1 +1,3 @@
-meine zeile A\nmeine zeile B\nmeine Zeile C\n
+meine zeile A
+meine zeile B
+meine Zeile C
