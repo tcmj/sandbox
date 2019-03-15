@@ -1,0 +1,1 @@
+meine zeile A\nmeine zeile B\nmeine Zeile C\n
